@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+venv/
 
 # Distribution / packaging
 .Python
@@ -35,6 +36,8 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
+
+GIHUB Code.txt
 
 # Unit test / coverage reports
 htmlcov/
